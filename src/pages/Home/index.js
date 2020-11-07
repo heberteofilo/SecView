@@ -7,7 +7,8 @@ import { AuthContext } from '../../contexts/auth'
 import LinearGradient from 'react-native-linear-gradient';
 
 import Icon from 'react-native-vector-icons/FontAwesome'
-
+//testando new branch
+//aaaaaaa
 export default function Home() {
 
   const navigation = useNavigation();
